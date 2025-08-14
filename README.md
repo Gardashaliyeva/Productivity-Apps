@@ -6,3 +6,4 @@ The list of daily productivity apps:
 ## Project 3: [Persistent Progress](https://github.com/Gardashaliyeva/Persistent-Progress)
 ## Project 4: [Automated To-do List App](https://github.com/Gardashaliyeva/Automated-To-do-List-App)
 ## Project 5: [Daily Planner and Journaling App](https://github.com/Gardashaliyeva/Daily-Planner-and-Journaling-App)
+## Project 6: [My Offline Library](https://github.com/Gardashaliyeva/MyLibrary)
